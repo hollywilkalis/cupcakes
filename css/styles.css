@@ -14,3 +14,19 @@ h1 {
   font-size: 60px;
   color: #f1cbff;
 }
+
+.dogs {
+  display: block;
+  margin: auto;
+  float: left;
+  padding-right: 3em;
+  padding-left: 1em;
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
+}
