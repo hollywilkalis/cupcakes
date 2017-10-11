@@ -1,0 +1,16 @@
+.flashy {
+  color: #ffbdbd;
+  font-style: italic;
+}
+
+.best {
+  color: #c9c9ff;
+  font-family: cursive;
+  font-weight: bolder;
+  font-size: 40px;
+}
+
+h1 {
+  font-size: 60px;
+  color: #f1cbff;
+}
